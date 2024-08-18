@@ -15,7 +15,8 @@ git add -A
  
 git commit -m '版本发布测试10.3'
 
-git push -f https://gitee.com/wFeia/comxxx.git master:Blog
+# // https://github.com/radonckey/comK.git
+git push -f https://github.com/radonckey/comK.git master:Blog
 
 # # 如果发布到 https://<USERNAME>.github.io/<REPO>
 # # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
