@@ -16,7 +16,7 @@ import { plugInExtensionTuiEditor } from '../../router/PlugInExtension/tuiEditor
 import { defineConfig } from 'vitepress'
 export default defineConfig({
   //配置
-  base: '/comxxx/',
+  base: '/comK/',
   title: '开发文档',
   titleTemplate: '开发文档',
   description: 'Vite & Vue powered static site generator.',
